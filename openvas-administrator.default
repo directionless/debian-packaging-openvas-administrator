@@ -1,0 +1,5 @@
+# Is the daemon enabled?
+ENABLE=true
+
+# daemon startup options.
+DAEMONOPTS="--listen=127.0.0.1 --enable-modify-settings"
