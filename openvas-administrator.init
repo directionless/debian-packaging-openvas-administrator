@@ -123,7 +123,7 @@ case "$1" in
     if running; then
         force_stop
     fi
-    if start && running ;  then
+    if start_function && running ;  then
 	    echo ${NAME}.
     else
     	    echo "ERROR."
