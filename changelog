@@ -1,3 +1,9 @@
+openvas-administrator (0.8.1.SVN.r7289) UNRELEASED; urgency=low
+
+  * update to svn
+
+ -- seph <seph@ubuntu-harder-builder>  Tue, 13 Apr 2010 14:11:42 -0400
+
 openvas-administrator (0.7.1.SVN.r7230.1) UNRELEASED; urgency=low
 
   * init.d script
